@@ -24,4 +24,4 @@ Scenario Description:
 <br />Which sponsors create the greatest impact on event participation?
 
 <br />How can the club identify trends in retention, billing issues, and member behavior?
-By centralizing all member, event, financial, and operational data, this system provides the Charlotte Paddle Club with a clean and sustainable structure for future analytics, reporting, and decision-making. The database supports improved membership management, better staffing decisions, optimized event planning, stronger sponsor relationships, and overall operational efficiency.
+<br /> <br />By centralizing all member, event, financial, and operational data, this system provides the Charlotte Paddle Club with a clean and sustainable structure for future analytics, reporting, and decision-making. The database supports improved membership management, better staffing decisions, optimized event planning, stronger sponsor relationships, and overall operational efficiency.
