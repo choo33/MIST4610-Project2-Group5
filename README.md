@@ -75,6 +75,10 @@ Queries: <br />
 <br /><img width="316" height="296" alt="image" src="https://github.com/user-attachments/assets/6e34eab9-d445-4a20-9f9f-2bc089429d34" />
 <br />Managerial Justification: This query helps managers understand the popularity and utilization of each membership plan, enabling them to make informed decisions about pricing, marketing, and resource allocation. By identifying which plans attract the most members, leadership can better focus on programs that drive revenue and engagement.
 
+<br /><br />**Query Checklist**:
+
+<br /><br />**Visualizations**:
+
 
 
 
