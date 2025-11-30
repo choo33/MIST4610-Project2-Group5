@@ -29,6 +29,9 @@ Scenario Description:
 <br /> <br />
 **Data Model** <br />
 
+<img width="1629" height="1294" alt="proj2eer" src="https://github.com/user-attachments/assets/82ea1cbc-3f2c-4075-944b-adf9a0a8e135" />
+
+
 <br /> <br />
 **Data Dictionary** <br />
 <img width="825" height="621" alt="image" src="https://github.com/user-attachments/assets/49763fc6-36e1-49eb-a0d4-dcf510aef718" />
