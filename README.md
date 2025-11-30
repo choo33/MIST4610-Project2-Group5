@@ -80,6 +80,13 @@ Queries: <br />
 <img width="393" height="146" alt="Screenshot 2025-11-30 at 10 06 09 AM" src="https://github.com/user-attachments/assets/462097c7-ffc6-4624-8683-7de1686524db" />
 
 <br /><br />**Visualizations**:
+<br /><img width="2379" height="1580" alt="image" src="https://github.com/user-attachments/assets/401ab08b-c7dd-4be2-963f-7e7363c7de5d" />
+<br />
+<img width="1979" height="1180" alt="image" src="https://github.com/user-attachments/assets/199e8f9a-15f6-4c71-a78e-168be56660b3" />
+<img width="1979" height="1180" alt="IMG_2952" src="https://github.com/user-attachments/assets/608d7b34-bbbd-454e-8df1-9f692a73868a" />
+
+
+
 
 
 
