@@ -29,8 +29,23 @@ Scenario Description:
 <br /> <br />
 **Data Model** <br />
 
-<img width="1629" height="1294" alt="proj2eer" src="https://github.com/user-attachments/assets/82ea1cbc-3f2c-4075-944b-adf9a0a8e135" />
+<img width="1874" height="1552" alt="image" src="https://github.com/user-attachments/assets/9789e6fc-61ce-4363-a2e1-7bc7369139df" />
+Explanation: ClubEvent_has_sponsor is optional because some events have no sponsors. ClubEvent to Staff is optional bevies Some events might not have assigned staff. ClubEvent to EventType is optional because some events don’t have specific categories. Subscription to FamilyAddOn: Not all members add family members. Subscription to Payment: A new subscription can exist before any payment is made or if payment is delayed.
 
+<br /> <br />
+**Tables:**
+- Member: Stores core member details including personal information, contact details, and whether they are the primary account holder.
+- Subscription: Tracks each member’s subscription, linking them to a membership plan while capturing status, billing cycle, renewal method, and key dates.
+- MembershipPlan: Defines the available membership plans, including plan name, billing period, and associated cost.
+- Payment: Logs payments made for subscriptions, including amounts, dates, and payment methods.
+- BillingHistory: Records historical billing transactions for each subscription, showing billed amounts, dates, and payment status.
+- FamilyAddOn: Contains information about family members added to a subscription, including their names and contact details.
+- Attendance: Captures which members attended which events, connecting attendance records to both members and events.
+- ClubEvent: Stores details about club events such as name, date, location, hosting staff, and event type.
+- EventType: Defines event categories and descriptions to classify different kinds of club events.
+- ClubEvent_has_sponsor: Represents the many-to-many relationship between events and sponsors by linking individual events to one or more sponsors.
+- Sponsor: Stores sponsor information including name and website details.
+- Staff: Contains staff member information, including contact details and organizational role.
 
 <br /> <br />
 **Data Dictionary** <br />
